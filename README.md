@@ -1,5 +1,7 @@
 # AP4TW
 
+Abyste mohl rychle zkontrolovat, můžete okamžitě vytvořit databázi na místním serveru, kód níže.
+
 CREATE DATABASE newDB;
 
 USE newDB;
